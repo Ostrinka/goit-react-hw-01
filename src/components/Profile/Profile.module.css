@@ -18,10 +18,10 @@
 }
 
 .userImg {
-width: 300px;
-background-color: darkslategray;
-border-radius: 50%;
-margin-bottom: 40px;
+  width: 300px;
+  background-color: darkslategray;
+  border-radius: 50%;
+  margin-bottom: 40px;
 }
 
 .userName {
