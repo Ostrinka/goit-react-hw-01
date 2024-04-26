@@ -1,0 +1,61 @@
+.userProfile {
+  display: flex;
+  flex-direction: column;
+  border: 4px solid black;
+  border-radius: 15px;
+  background-color: #fafafa;
+  margin: 0 auto;
+  width: 600px;
+  text-align: center;
+  margin-left: 100px;
+}
+
+.userCard {
+  padding-top: 30px;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.userImg {
+width: 300px;
+background-color: darkslategray;
+border-radius: 50%;
+margin-bottom: 40px;
+}
+
+.userName {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.userTag, .userLocation {
+  color: dimgray;
+  font-size: 22px;
+}
+
+.userMenu {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 30px;
+}
+
+.userList {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 22px;
+  font-weight: 500;
+  width: calc(100%/3);
+  border-top: 3px solid dimgray;
+  background-color: #aba5a8;
+  height: 100px;
+  padding-top: 30px;
+}
+
+.userList:not(:last-child) {
+  border-right: 3px solid dimgray;
+}
