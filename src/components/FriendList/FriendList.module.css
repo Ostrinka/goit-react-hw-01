@@ -1,8 +1,8 @@
 .friendMenu {
   display: flex;
-  gap: 10px;
+  gap: 18px;
   justify-content: center;
   margin: 0 auto;
   margin-top: 50px;
-  margin-left: 70px;
+  
 }

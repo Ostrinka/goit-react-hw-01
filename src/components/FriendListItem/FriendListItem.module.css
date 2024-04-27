@@ -3,8 +3,8 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
-  width: 80px;
-  height: 120px;
+  width: 100px;
+  height: 150px;
   border: 2px solid black;
   border-radius: 10px;
 }
@@ -21,4 +21,12 @@ img {
 .friendStatus {
   font-size: 18px;
   font-weight: 300;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
 }
