@@ -1,0 +1,24 @@
+.friendCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 80px;
+  height: 120px;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+img {
+  margin: 0 auto;
+}
+
+.friendName {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.friendStatus {
+  font-size: 18px;
+  font-weight: 300;
+}
