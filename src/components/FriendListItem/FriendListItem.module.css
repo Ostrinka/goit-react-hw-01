@@ -14,13 +14,13 @@ img {
 }
 
 .friendName {
-  font-size: 22px;
+  font-size: 24px;
   font-weight: 500;
 }
 
 .friendStatus {
-  font-size: 18px;
-  font-weight: 300;
+  font-size: 20px;
+  font-weight: 400;
 }
 
 .online {
